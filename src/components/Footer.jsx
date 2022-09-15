@@ -31,7 +31,7 @@ const Footer = () => {
             <li className="py-2 text-sm">Analytics</li>
             <li className="py-2 text-sm">Marketing</li>
             <li className="py-2 text-sm">Commerce</li>
-            <li className="py-2 text-sm">Insigths</li>
+            <li className="py-2 text-sm">Insights</li>
           </ul>
         </div>
         <div className="">
